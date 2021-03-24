@@ -1,0 +1,16 @@
+img{
+    border: 10px dotted yellow;
+}
+
+body{
+  background-color: #5c1520;
+}
+figcaption{
+  font-family: arial;
+}
+a
+{
+color: brown;
+font font-family: tahoma;
+  border: 5px solid blue;
+}

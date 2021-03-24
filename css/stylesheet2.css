@@ -1,0 +1,19 @@
+h1{
+  color: orange;
+}
+p{
+  color: indigo;
+}
+
+body{
+  background-color: #0073d8;
+}
+figcaption{
+  font-family: tahoma;
+  border: 2px solid red;
+}
+a
+{
+color: green;
+font font-family: arial;
+}

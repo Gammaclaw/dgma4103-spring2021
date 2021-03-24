@@ -1,0 +1,20 @@
+h1{
+  color: blue;
+  font-family: arial;
+}
+p{
+  color: green;
+  font-family: tahoma;
+}
+
+body{
+  background-color: #efc050;
+}
+figcaption{
+  color: pink;
+  font-family: courier;
+}
+a
+{
+color: green;
+}
